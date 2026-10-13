@@ -1,0 +1,2 @@
+# Official PyPI Windows AMD64 wheel, independently retrieved SHA256.
+z3-solver==5.1.0.0 --hash=sha256:1561efd36e06f4cb7cbf11b63a2fba8fc8fdeb9c5754df90c84f9bd7a4864552
