@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Private research archive metadata; no public release or DOI is claimed."
+title: "Exact FIFO Parameter Inference and Timing Certificates from Completed Prefix Reports: data and code candidate"
+type: software
+version: "private-archive-1"
+authors:
+  - family-names: "Zhang"
+    given-names: "Zhe"
+    affiliation: "School of Automation Science and Engineering, Xi'an Jiaotong University"
