@@ -1,8 +1,10 @@
 cff-version: 1.2.0
-message: "Private research archive metadata; no public release or DOI is claimed."
-title: "Exact FIFO Parameter Inference and Timing Certificates from Completed Prefix Reports: data and code candidate"
+message: "Cite the exact repository commit and the reproduction ZIP checksum. No journal publication or DOI is claimed."
+title: "Exact FIFO Parameter Inference and Timing Certificates from Completed Prefix Reports: data and code"
 type: software
-version: "private-archive-1"
+version: "1.0"
+date-released: 2026-10-14
+repository-code: "https://github.com/san-yue-z/fifo-prefix-inference"
 authors:
   - family-names: "Zhang"
     given-names: "Zhe"

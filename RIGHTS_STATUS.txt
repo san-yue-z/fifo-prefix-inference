@@ -1,4 +1,15 @@
-PRIVATE AUTHOR ARCHIVE ONLY
-The user authorized upload to san-yue-z/fifo-prefix-inference as a private repository.
-No public release, collaborator sharing, Zenodo connection or open-source licence was authorized.
-No public licence is granted by this repository.
+PUBLIC ACCESS WITHOUT AN ADDED OPEN LICENCE
+
+On 2026-10-14 the author explicitly authorized making the existing
+san-yue-z/fifo-prefix-inference repository public, limited to the already
+uploaded research code, experiment data and reproduction instructions.
+
+No MIT, CC BY or other open-source/open-data licence has been added or granted
+by this notice. Public visibility must not be represented as such a licence.
+Applicable platform terms and any separately identified third-party rights
+remain unaffected. No rights in the manuscript or downloaded literature are
+granted; those materials are not included.
+
+Private-status notes inside the frozen reproduction ZIP are historical and
+are superseded only as to public access by this root notice. The ZIP bytes,
+measured source and numerical evidence have not been altered.
